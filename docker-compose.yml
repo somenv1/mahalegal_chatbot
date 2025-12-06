@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: mahalegal-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4}
+      - DEBUG=${DEBUG:-False}
+      - ALLOWED_ORIGINS=http://localhost:3000,http://frontend:3000
+      - CHROMA_PERSIST_DIRECTORY=/app/chroma_db
+      - COLLECTION_NAME=maharashtra_traffic_laws
+      - DATA_DIR=/app/data
+    volumes:
+      - ./backend/chroma_db:/app/chroma_db
+      - ./data:/app/data
+    networks:
+      - mahalegal-network
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: mahalegal-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - mahalegal-network
+    restart: unless-stopped
+
+networks:
+  mahalegal-network:
+    driver: bridge
+
+volumes:
+  chroma_db:

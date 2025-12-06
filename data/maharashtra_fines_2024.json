@@ -1,0 +1,230 @@
+{
+  "title": "Maharashtra Traffic Fines 2024 - Motor Vehicles Act 2019",
+  "last_updated": "2024-01-01",
+  "state": "Maharashtra",
+  "source": "Motor Vehicles Act 2019 & Maharashtra Government Notifications",
+  "violations": [
+    {
+      "violation_code": "MV_177",
+      "violation_name": "General Traffic Rule Violation",
+      "section": "Section 177 MV Act",
+      "fine_amount": 500,
+      "description": "Violation of general traffic rules, orders, and regulations",
+      "compound_amount": 500
+    },
+    {
+      "violation_code": "MV_177A",
+      "violation_name": "Speed Limit Violation",
+      "section": "Section 177A MV Act",
+      "fine_amount": 2000,
+      "description": "Exceeding prescribed speed limits (Light Motor Vehicle: First offense - ₹1000-2000, Second offense - ₹2000-4000)",
+      "compound_amount": 2000
+    },
+    {
+      "violation_code": "MV_178",
+      "violation_name": "Driving Without Registration",
+      "section": "Section 178 MV Act",
+      "fine_amount": 10000,
+      "description": "Driving unregistered vehicle - ₹10,000 and/or up to 3 months imprisonment",
+      "compound_amount": 10000
+    },
+    {
+      "violation_code": "MV_179",
+      "violation_name": "Disobeying Police Orders",
+      "section": "Section 179 MV Act",
+      "fine_amount": 2000,
+      "description": "Disobedience of orders of authorities - ₹2,000",
+      "compound_amount": 2000
+    },
+    {
+      "violation_code": "MV_180",
+      "violation_name": "Driving Without License",
+      "section": "Section 180 MV Act",
+      "fine_amount": 5000,
+      "description": "Driving without a valid license - ₹5,000",
+      "compound_amount": 5000
+    },
+    {
+      "violation_code": "MV_181",
+      "violation_name": "Driving Despite Disqualification",
+      "section": "Section 181 MV Act",
+      "fine_amount": 10000,
+      "description": "Driving despite disqualification - ₹10,000",
+      "compound_amount": 10000
+    },
+    {
+      "violation_code": "MV_182",
+      "violation_name": "Offense by Juveniles",
+      "section": "Section 182 MV Act",
+      "fine_amount": 25000,
+      "description": "Offense by juveniles (under 18) - ₹25,000 fine and 3 years imprisonment for guardian/owner",
+      "compound_amount": 25000
+    },
+    {
+      "violation_code": "MV_183",
+      "violation_name": "Over-Speeding",
+      "section": "Section 183 MV Act",
+      "fine_amount": 5000,
+      "description": "Driving dangerously/over-speeding - ₹5,000 for first offense (LMV), ₹10,000 for medium/heavy vehicles",
+      "compound_amount": 5000
+    },
+    {
+      "violation_code": "MV_184",
+      "violation_name": "Dangerous Driving",
+      "section": "Section 184 MV Act",
+      "fine_amount": 10000,
+      "description": "Dangerous driving - Up to ₹10,000 and/or up to 6 months imprisonment",
+      "compound_amount": 10000
+    },
+    {
+      "violation_code": "MV_185",
+      "violation_name": "Drunk Driving",
+      "section": "Section 185 MV Act",
+      "fine_amount": 10000,
+      "description": "Drunk driving - First offense: ₹10,000 and/or 6 months imprisonment. Second offense: ₹15,000 and/or 2 years imprisonment",
+      "compound_amount": 10000
+    },
+    {
+      "violation_code": "MV_186",
+      "violation_name": "Driving Under Influence of Drugs",
+      "section": "Section 186 MV Act",
+      "fine_amount": 10000,
+      "description": "Driving under influence of drugs - Similar penalties as drunk driving",
+      "compound_amount": 10000
+    },
+    {
+      "violation_code": "MV_189",
+      "violation_name": "Racing and Speeding",
+      "section": "Section 189 MV Act",
+      "fine_amount": 5000,
+      "description": "Racing and speeding on public road - ₹5,000 and/or up to 1 month imprisonment",
+      "compound_amount": 5000
+    },
+    {
+      "violation_code": "MV_190",
+      "violation_name": "Vehicle with Altered Silencer",
+      "section": "Section 190(2) MV Act",
+      "fine_amount": 10000,
+      "description": "Using vehicle with altered/non-standard silencer - ₹10,000 fine",
+      "compound_amount": 10000
+    },
+    {
+      "violation_code": "MV_192",
+      "violation_name": "Driving Without Insurance",
+      "section": "Section 196 MV Act",
+      "fine_amount": 2000,
+      "description": "Driving without valid insurance - First offense: ₹2,000 and/or 3 months imprisonment. Second offense: ₹4,000 and/or 3 months imprisonment",
+      "compound_amount": 2000
+    },
+    {
+      "violation_code": "MV_194",
+      "violation_name": "Not Wearing Seat Belt",
+      "section": "Section 194B MV Act",
+      "fine_amount": 1000,
+      "description": "Not wearing seat belt (driver and front passenger) - ₹1,000",
+      "compound_amount": 1000
+    },
+    {
+      "violation_code": "MV_194C",
+      "violation_name": "Violating Safety Measures for Motorcyclists",
+      "section": "Section 194C MV Act",
+      "fine_amount": 1000,
+      "description": "Not wearing helmet - ₹1,000 and/or 3 months suspension of license",
+      "compound_amount": 1000
+    },
+    {
+      "violation_code": "MV_194D",
+      "violation_name": "Not Wearing Helmet",
+      "section": "Section 194D MV Act",
+      "fine_amount": 1000,
+      "description": "Motorcyclist not wearing protective headgear (helmet) - ₹1,000",
+      "compound_amount": 1000
+    },
+    {
+      "violation_code": "MV_194E",
+      "violation_name": "No Safety Belt for Children",
+      "section": "Section 194E MV Act",
+      "fine_amount": 1000,
+      "description": "Not providing safety belt for children below 14 years - ₹1,000",
+      "compound_amount": 1000
+    },
+    {
+      "violation_code": "MV_194F",
+      "violation_name": "Use of Mobile Phone While Driving",
+      "section": "Section 194F MV Act",
+      "fine_amount": 5000,
+      "description": "Using mobile phone while driving - First offense: ₹5,000. Second offense: ₹10,000",
+      "compound_amount": 5000
+    },
+    {
+      "violation_code": "MV_196",
+      "violation_name": "Driving Without PUC Certificate",
+      "section": "Section 196 MV Act",
+      "fine_amount": 10000,
+      "description": "Driving without valid Pollution Under Control (PUC) certificate - ₹10,000",
+      "compound_amount": 10000
+    },
+    {
+      "violation_code": "MV_199",
+      "violation_name": "Overloading",
+      "section": "Section 199 MV Act",
+      "fine_amount": 20000,
+      "description": "Overloading of vehicle - ₹20,000 and additional ₹2,000 per extra ton",
+      "compound_amount": 20000
+    },
+    {
+      "violation_code": "MV_200",
+      "violation_name": "Overloading of Passengers",
+      "section": "Section 200 MV Act",
+      "fine_amount": 1000,
+      "description": "Overloading of two-wheelers with pillion riders - ₹1,000 per extra passenger",
+      "compound_amount": 1000
+    },
+    {
+      "violation_code": "SIGNAL_JUMP",
+      "violation_name": "Red Light/Signal Jumping",
+      "section": "Section 177 MV Act",
+      "fine_amount": 5000,
+      "description": "Jumping red light/traffic signal - ₹5,000 and/or 1 year suspension of license",
+      "compound_amount": 5000
+    },
+    {
+      "violation_code": "WRONG_SIDE",
+      "violation_name": "Driving on Wrong Side",
+      "section": "Section 177/184 MV Act",
+      "fine_amount": 5000,
+      "description": "Driving on wrong side of road - ₹5,000 and/or imprisonment",
+      "compound_amount": 5000
+    },
+    {
+      "violation_code": "NO_PARKING",
+      "violation_name": "Parking Violation",
+      "section": "Section 177 MV Act",
+      "fine_amount": 500,
+      "description": "Parking in no-parking zone or causing obstruction - ₹500",
+      "compound_amount": 500
+    },
+    {
+      "violation_code": "TRIPLE_RIDING",
+      "violation_name": "Triple Riding on Two-Wheeler",
+      "section": "Section 177/200 MV Act",
+      "fine_amount": 1000,
+      "description": "Carrying more than one pillion rider on two-wheeler - ₹1,000",
+      "compound_amount": 1000
+    }
+  ],
+  "payment_portal": "https://mahatrafficechallan.gov.in",
+  "helplines": {
+    "mumbai_traffic_police": "103",
+    "emergency": "112",
+    "acb_anti_corruption": "1064",
+    "highway_safety": "1033"
+  },
+  "important_notes": [
+    "Fines are as per Motor Vehicles Act 2019 and Maharashtra government notifications",
+    "Repeated offenses attract higher penalties",
+    "Some violations may lead to license suspension or cancellation",
+    "Vehicle may be impounded for serious violations",
+    "Court appearance may be mandatory for certain violations"
+  ]
+}
