@@ -155,7 +155,7 @@ def ingest_documents(data_dir: str = "./data", persist_dir: str = "./chroma_db")
     print("Document ingestion completed successfully!")
     print("=" * 60)
     print(f"\nYou can now start the backend server.")
-    print("The RAG system will use the vector store from: {persist_dir}")
+    print(f"The RAG system will use the vector store from: {persist_dir}")
 
 
 if __name__ == "__main__":
